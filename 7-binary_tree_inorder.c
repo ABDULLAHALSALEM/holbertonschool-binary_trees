@@ -1,3 +1,4 @@
+#include"binary_trees.h"
 /**
 * binary_tree_inorder - in-order traversal
 * @tree: pointer to the root
